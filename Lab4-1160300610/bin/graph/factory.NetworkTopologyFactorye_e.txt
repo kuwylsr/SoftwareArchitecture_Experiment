@@ -1,0 +1,513 @@
+﻿发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/???.txt
+发生错误的文件内容： 空
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 输入的文件路径错误
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Computer_not_full_nature.txt
+发生错误的文件内容： Vertex = <"Computer1", "Computer", >
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_EdgeType_not_full.txt
+发生错误的文件内容： EdgeType = 
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_EdgeType_not_match.txt
+发生错误的文件内容： EdgeType = "NetworkC"
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Edge_not_full.txt
+发生错误的文件内容： Edge = < "NetworkConnection", "100", "Router1","Server1", "No">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Edge_point_error.txt
+发生错误的文件内容： Edge = <"R1S1", "NetworkConnection", "100", "Router1","Server1", "Yes">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的方向叙述错误！
+发生错误的处理结果： 将有向边直接改为无向边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_GraphName_not_full.txt
+发生错误的文件内容： GraphName = 
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的名字的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_GraphType_not_full.txt
+发生错误的文件内容： GraphType = 
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_GraphType_not_match.txt
+发生错误的文件内容： GraphType = "Netlogy"
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Router_not_full_nature.txt
+发生错误的文件内容： Vertex = <"Router1", "Router", >
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Server_not_full_nature.txt
+发生错误的文件内容： Vertex = <"Server1", "Server", >
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_VertexType_not_full.txt
+发生错误的文件内容： VertexType =  
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_VertexType_not_match.txt
+发生错误的文件内容： VertexType = "Cuter", "Server"
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 顶点的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Vertex_in_Edge_not_have.txt
+发生错误的文件内容： Edge = <"R1S1", "NetworkConnection", "100", "Router1","Ser1", "No">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边中的顶点未定义！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Vertex_not_full_exnature.txt
+发生错误的文件内容： Vertex = <, "Computer", <"192.168.1.101">>
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（非属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_WirelessRouter_not_full_nature.txt
+发生错误的文件内容： Vertex = <"WirelessRouter1", "WirelessRouter", >
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:32
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/repair/data_Topology_Edge_begin_end_error.txt
+发生错误的文件内容： Edge = <"C", "NetworkConnection", "10", "Computer1","Computer2", "No">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该边的起点和终点类型有问题！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/repair/data_Topology_Edge_have_HyperEdge.txt
+发生错误的文件内容： HyperEdge = <"ActorsInSR", "SameMovieHyperEdge", {"TimRobbins", "MorganFreeman", "FrankDarabont"}>
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该图不能存在超边！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/repair/data_Topology_Edge_have_multiEdge.txt
+发生错误的文件内容： Edge = <"C1S1", "NetworkConnection", "10", "Router1","Server1", "No">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中出现多重边！
+发生错误的处理结果： 去除边：C1S1
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/repair/data_Topology_Edge_Label_repeat.txt
+发生错误的文件内容： Edge = <"C1S1", "NetworkConnection", "10", "Computer1","Server1", "No">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中边的Label重复！
+发生错误的处理结果： 将边：C1S1变为边：C1S11
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/repair/data_Topology_Edge_Loop_error.txt
+发生错误的文件内容： Edge = <"R1S1", "NetworkConnection", "100", "Router1","Router1", "No">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该图中不存在Loop！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:32
+发生错误的文件名： test/graph/exception_Topologys/repair/data_Topology_Vertex_Label_repeat.txt
+发生错误的文件内容： Vertex = <"Computer1", "Server", <"192.168.1.2">>
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中顶点Label重复！
+发生错误的处理结果： 将顶点：Computer1变为顶点：Computer11
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/???.txt
+发生错误的文件内容： 空
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 输入的文件路径错误
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Computer_not_full_nature.txt
+发生错误的文件内容： Vertex = <"Computer1", "Computer", >
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_EdgeType_not_full.txt
+发生错误的文件内容： EdgeType = 
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_EdgeType_not_match.txt
+发生错误的文件内容： EdgeType = "NetworkC"
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Edge_not_full.txt
+发生错误的文件内容： Edge = < "NetworkConnection", "100", "Router1","Server1", "No">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Edge_point_error.txt
+发生错误的文件内容： Edge = <"R1S1", "NetworkConnection", "100", "Router1","Server1", "Yes">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的方向叙述错误！
+发生错误的处理结果： 将有向边直接改为无向边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_GraphName_not_full.txt
+发生错误的文件内容： GraphName = 
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的名字的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_GraphType_not_full.txt
+发生错误的文件内容： GraphType = 
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_GraphType_not_match.txt
+发生错误的文件内容： GraphType = "Netlogy"
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Router_not_full_nature.txt
+发生错误的文件内容： Vertex = <"Router1", "Router", >
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Server_not_full_nature.txt
+发生错误的文件内容： Vertex = <"Server1", "Server", >
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_VertexType_not_full.txt
+发生错误的文件内容： VertexType =  
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_VertexType_not_match.txt
+发生错误的文件内容： VertexType = "Cuter", "Server"
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 顶点的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Vertex_in_Edge_not_have.txt
+发生错误的文件内容： Edge = <"R1S1", "NetworkConnection", "100", "Router1","Ser1", "No">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边中的顶点未定义！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_Vertex_not_full_exnature.txt
+发生错误的文件内容： Vertex = <, "Computer", <"192.168.1.101">>
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（非属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/re_read/data_Topology_WirelessRouter_not_full_nature.txt
+发生错误的文件内容： Vertex = <"WirelessRouter1", "WirelessRouter", >
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:07:38
+操作的内容： 读取文件： test/graph/exception_Topologys/data_Topology.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/repair/data_Topology_Edge_begin_end_error.txt
+发生错误的文件内容： Edge = <"C", "NetworkConnection", "10", "Computer1","Computer2", "No">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该边的起点和终点类型有问题！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/repair/data_Topology_Edge_have_HyperEdge.txt
+发生错误的文件内容： HyperEdge = <"ActorsInSR", "SameMovieHyperEdge", {"TimRobbins", "MorganFreeman", "FrankDarabont"}>
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该图不能存在超边！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/repair/data_Topology_Edge_have_multiEdge.txt
+发生错误的文件内容： Edge = <"C1S1", "NetworkConnection", "10", "Router1","Server1", "No">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中出现多重边！
+发生错误的处理结果： 去除边：C1S1
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/repair/data_Topology_Edge_Label_repeat.txt
+发生错误的文件内容： Edge = <"C1S1", "NetworkConnection", "10", "Computer1","Server1", "No">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中边的Label重复！
+发生错误的处理结果： 将边：C1S1变为边：C1S11
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/repair/data_Topology_Edge_Loop_error.txt
+发生错误的文件内容： Edge = <"R1S1", "NetworkConnection", "100", "Router1","Router1", "No">
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该图中不存在Loop！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:07:38
+发生错误的文件名： test/graph/exception_Topologys/repair/data_Topology_Vertex_Label_repeat.txt
+发生错误的文件内容： Vertex = <"Computer1", "Server", <"192.168.1.2">>
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中顶点Label重复！
+发生错误的处理结果： 将顶点：Computer1变为顶点：Computer11
+--------------------------------
+操作的时间： 2018-05-31 21:16:10
+操作的内容： 结束了程序！
+--------------------------------
+操作的时间： 2018-05-31 21:16:55
+操作的内容： 结束了程序！
+--------------------------------
+操作的时间： 2018-05-31 21:17:21
+操作的内容： 读取文件： src/graph/file1.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-31 21:17:21
+发生错误的文件名： src/graph/file1.txt
+发生错误的文件内容： 空
+发生错误的类名： factory.NetworkTopologyFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 输入的文件路径错误
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-31 21:18:07
+操作的内容： 读取文件： src/graph/file1.txt！
+--------------------------------
+操作的时间： 2018-05-31 21:19:04
+操作的内容： 读取文件： src/graph/file1.txt！
+--------------------------------
+操作的时间： 2018-06-03 11:05:24
+操作的内容： 读取文件： src/graph/file1.txt！
+--------------------------------

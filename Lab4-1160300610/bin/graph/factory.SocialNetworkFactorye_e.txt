@@ -1,0 +1,204 @@
+﻿发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/???.txt
+发生错误的文件内容： 空
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 输入的文件路径错误
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/re_read/data_Social_EdgeType_not_full.txt
+发生错误的文件内容： EdgeType = 
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件内容出错！
+发生错误的具体信息： 边的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/re_read/data_Social_EdgeType_not_match.txt
+发生错误的文件内容： EdgeType = "CommenTie", "FriendTie"
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/re_read/data_Social_Edge_not_full.txt
+发生错误的文件内容： Edge = <, "CommentTie", "0.11", "Olivia", "Kevin", "Yes">
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件内容出错！
+发生错误的具体信息： 边的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/re_read/data_Social_Edge_point_error.txt
+发生错误的文件内容： Edge = <"SophiaForwardEmma", "ForwardTie", "0.01", "Sophia", "Emma", "No">
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的方向叙述错误！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/re_read/data_Social_Edge_weight_error.txt
+发生错误的文件内容： Edge = <"EmmaForwardSophia", "ForwardTie", "100", "Emma", "Sophia", "Yes">
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该边的权重不符合要求！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/re_read/data_Social_GraphName_not_full.txt
+发生错误的文件内容： GraphName = 
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件内容出错！
+发生错误的具体信息： 图的名字的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/re_read/data_Social_GraphType_not_full.txt
+发生错误的文件内容： GraphType = 
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件内容出错！
+发生错误的具体信息： 图的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/re_read/data_Social_GraphType_not_match.txt
+发生错误的文件内容： GraphType = "Socetwork"
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/re_read/data_Social_VertexType_not_full.txt
+发生错误的文件内容： VertexType = 
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件内容出错！
+发生错误的具体信息： 点的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/re_read/data_Social_VertexType_not_match.txt
+发生错误的文件内容： VertexType = "Pen"
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 顶点的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/re_read/data_Social_Vertex_in_Edge_not_have.txt
+发生错误的文件内容： Edge = <"SophiaForwardEmma", "ForwardTie", "0.01", "Sophia", "Ea", "Yes">
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边中的顶点未定义！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/re_read/data_Social_Vertex_not_full_exnature.txt
+发生错误的文件内容： Vertex = < "Person", <"F", "19">>
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件内容出错！
+发生错误的具体信息： 点的信息不完整（非属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/re_read/data_Social_Vertex_Person_not_full_nature.txt
+发生错误的文件内容： Vertex = <"Emma", "Person", >
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 20:08:15
+操作的内容： 读取文件： test/graph/exception_Socials/data_Social.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/repair/data_Social_Edge_have_HyperEdge.txt
+发生错误的文件内容： HyperEdge = <"ActorsInSR", "SameMovieHyperEdge", {"TimRobbins", "MorganFreeman", "FrankDarabont"}>
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该图不能存在超边！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/repair/data_Social_Edge_Label_repeat.txt
+发生错误的文件内容： Edge = <"OliviaFollowEllen", "FriendTie", "0.03", "Olivia", "Ellen", "Yes">
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中边的Label重复！
+发生错误的处理结果： 将边：OliviaFollowEllen变为边：OliviaFollowEllen1
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/repair/data_Social_Edge_Loop.txt
+发生错误的文件内容： Edge = <"GloriaForwardKelly", "ForwardTie", "0.03", "Gloria", "Gloria","Yes">
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该图中不存在Loop！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 20:08:15
+发生错误的文件名： test/graph/exception_Socials/repair/data_Social_Vertex_Label_repeat.txt
+发生错误的文件内容： Vertex = <"Emma", "Person", <"F", "19">>
+发生错误的类名： factory.SocialNetworkFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中顶点Label重复！
+发生错误的处理结果： 将顶点：Emma变为顶点：Emma1
+--------------------------------

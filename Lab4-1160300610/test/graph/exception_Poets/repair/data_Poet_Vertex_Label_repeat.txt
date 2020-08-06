@@ -1,0 +1,8 @@
+GraphType = "GraphPoet"
+GraphName = "LSR_Poet"
+VertexType = "Word"
+Vertex = <"666", "Word">
+Vertex = <"666", "Word">
+Vertex = <"666", "Word">
+EdgeType = "WordNeighborhood"
+Edge = <"ggg", "WordNeighborhood", "100", "666","666", "Yes">

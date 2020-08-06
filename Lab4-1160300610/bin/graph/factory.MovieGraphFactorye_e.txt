@@ -1,0 +1,771 @@
+﻿发生文件错误的时间： 2018-05-20 19:53:03
+发生错误的文件名： test/graph/exception_Movies/???.txt
+发生错误的文件内容： 空
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 输入的文件路径错误
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:03
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:03
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Actor_not_full_nature.txt
+发生错误的文件内容： Vertex = <"MorganFreeman", "Actor", <"81",>>
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:03
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:03
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Director_not_full_nature.txt
+发生错误的文件内容： Vertex = <"FrankDarabont", "Director", >
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:03
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:03
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_EdgeType_not_full.txt
+发生错误的文件内容： EdgeType = 
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:03
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:03
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_EdgeType_not_match.txt
+发生错误的文件内容： EdgeType = "MovieActorRelation", "Mion","SameMovieHyperEdge"
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:03
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:03
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Edge_not_full.txt
+发生错误的文件内容： Edge = < "MovieDirectorRelation", "-1","TheShawshankRedemption", "FrankDarabont", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:03
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:03
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Edge_weight_error.txt
+发生错误的文件内容： GraphType = "GraphPoet"
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:03
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:03
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_GraphName_not_full.txt
+发生错误的文件内容： GraphName = 
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的名字的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:03
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:03
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_GraphType_not_full.txt
+发生错误的文件内容： GraphType = 
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:03
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_GraphType_not_match.txt
+发生错误的文件内容： GraphType = "MovGraph"
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:04
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Movie_not_full_nature.txt
+发生错误的文件内容： Vertex = <"TheGreenMile", "Movie", >
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:04
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_VertexType_not_full.txt
+发生错误的文件内容： VertexType = 
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:04
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_VertexType_not_match.txt
+发生错误的文件内容： VertexType = "Movr", "Director"
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 顶点的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:04
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Vertex_in_Edge_not_have.txt
+发生错误的文件内容： Edge = <"SRMF", "MovieActorRelation", "1","TheShemption", "TimRobbins", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边中的顶点未定义！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:04
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Vertex_not_full_exnature.txt
+发生错误的文件内容： Vertex = < "Director", <"59", "M">>
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（非属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:04
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Vertex_in_H_not_have.txt
+发生错误的文件内容： Edge = <"SRMF", "MovieActorRelation", "1","TheShemption", "TimRobbins", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边中的顶点未定义！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:53:04
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_Label_repeat.txt
+发生错误的文件内容： Edge = <"SRFD", "MovieDirectorRelation", "-1","TheShawshankRedemption", "FrankDarabont", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中边的Label重复！
+发生错误的处理结果： 将边：SRFD变为边：SRFD1
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_Loop_error.txt
+发生错误的文件内容： Edge = <"SRFD", "MovieDirectorRelation", "-1","TheShawshankRedemption", "TheShawshankRedemption", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该图中不存在Loop！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_point_error.txt
+发生错误的文件内容： Edge = <"SRFD", "MovieDirectorRelation", "-1","TheShawshankRedemption", "FrankDarabont", "Yes">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的方向叙述错误！
+发生错误的处理结果： 将有向边直接改为无向边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Vertex_Label_repeat.txt
+发生错误的文件内容： Vertex = <"TheShawshankRedemption", "Movie", <"1994", "USA","9.3">>
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中顶点Label重复！
+发生错误的处理结果： 将顶点：TheShawshankRedemption变为顶点：TheShawshankRedemption1
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_H_Label_repeat.txt
+发生错误的文件内容： HyperEdge = <"ActorsInSR", "SameMovieHyperEdge", {"TimRobbins", "MorganFreeman", "FrankDarabont"}>
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中边的Label重复！
+发生错误的处理结果： 将边：H||ActorsInSR:<FrankDarabont,TimRobbins,MorganFreeman,>
+变为边：H||ActorsInSR1:<FrankDarabont,TimRobbins,MorganFreeman,>
+
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_have_mutiEdge.txt
+发生错误的文件内容： Edge = <"SFD", "MovieDirectorRelation", "-1","TheShawshankRedemption", "FrankDarabont", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中出现多重边！
+发生错误的处理结果： 去除边：SFD
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:53:04
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_begin_end_error.txt
+发生错误的文件内容： Edge = <"GMFD", "MovieDirectorRelation", "-1","MorganFreeman", "FrankDarabont", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该边的起点和终点类型有问题！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:08
+发生错误的文件名： test/graph/exception_Movies/???.txt
+发生错误的文件内容： 空
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 输入的文件路径错误
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:08
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:08
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Actor_not_full_nature.txt
+发生错误的文件内容： Vertex = <"MorganFreeman", "Actor", <"81",>>
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:08
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:08
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Director_not_full_nature.txt
+发生错误的文件内容： Vertex = <"FrankDarabont", "Director", >
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:08
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:08
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_EdgeType_not_full.txt
+发生错误的文件内容： EdgeType = 
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:08
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:08
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_EdgeType_not_match.txt
+发生错误的文件内容： EdgeType = "MovieActorRelation", "Mion","SameMovieHyperEdge"
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:08
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:08
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Edge_not_full.txt
+发生错误的文件内容： Edge = < "MovieDirectorRelation", "-1","TheShawshankRedemption", "FrankDarabont", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:08
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:08
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Edge_weight_error.txt
+发生错误的文件内容： GraphType = "GraphPoet"
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:08
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:08
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_GraphName_not_full.txt
+发生错误的文件内容： GraphName = 
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的名字的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:08
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:08
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_GraphType_not_full.txt
+发生错误的文件内容： GraphType = 
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:09
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_GraphType_not_match.txt
+发生错误的文件内容： GraphType = "MovGraph"
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:09
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Movie_not_full_nature.txt
+发生错误的文件内容： Vertex = <"TheGreenMile", "Movie", >
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:09
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_VertexType_not_full.txt
+发生错误的文件内容： VertexType = 
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:09
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_VertexType_not_match.txt
+发生错误的文件内容： VertexType = "Movr", "Director"
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 顶点的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:09
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Vertex_in_Edge_not_have.txt
+发生错误的文件内容： Edge = <"SRMF", "MovieActorRelation", "1","TheShemption", "TimRobbins", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边中的顶点未定义！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:09
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Vertex_not_full_exnature.txt
+发生错误的文件内容： Vertex = < "Director", <"59", "M">>
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（非属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:09
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Vertex_in_H_not_have.txt
+发生错误的文件内容： Edge = <"SRMF", "MovieActorRelation", "1","TheShemption", "TimRobbins", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边中的顶点未定义！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:55:09
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_Label_repeat.txt
+发生错误的文件内容： Edge = <"SRFD", "MovieDirectorRelation", "-1","TheShawshankRedemption", "FrankDarabont", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中边的Label重复！
+发生错误的处理结果： 将边：SRFD变为边：SRFD1
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_Loop_error.txt
+发生错误的文件内容： Edge = <"SRFD", "MovieDirectorRelation", "-1","TheShawshankRedemption", "TheShawshankRedemption", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该图中不存在Loop！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_point_error.txt
+发生错误的文件内容： Edge = <"SRFD", "MovieDirectorRelation", "-1","TheShawshankRedemption", "FrankDarabont", "Yes">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的方向叙述错误！
+发生错误的处理结果： 将有向边直接改为无向边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Vertex_Label_repeat.txt
+发生错误的文件内容： Vertex = <"TheShawshankRedemption", "Movie", <"1994", "USA","9.3">>
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中顶点Label重复！
+发生错误的处理结果： 将顶点：TheShawshankRedemption变为顶点：TheShawshankRedemption1
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_H_Label_repeat.txt
+发生错误的文件内容： HyperEdge = <"ActorsInSR", "SameMovieHyperEdge", {"TimRobbins", "MorganFreeman", "FrankDarabont"}>
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中边的Label重复！
+发生错误的处理结果： 将边：H||ActorsInSR:<FrankDarabont,TimRobbins,MorganFreeman,>
+变为边：H||ActorsInSR1:<FrankDarabont,TimRobbins,MorganFreeman,>
+
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_have_mutiEdge.txt
+发生错误的文件内容： Edge = <"SFD", "MovieDirectorRelation", "-1","TheShawshankRedemption", "FrankDarabont", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中出现多重边！
+发生错误的处理结果： 去除边：SFD
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:55:09
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_begin_end_error.txt
+发生错误的文件内容： Edge = <"GMFD", "MovieDirectorRelation", "-1","MorganFreeman", "FrankDarabont", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该边的起点和终点类型有问题！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/???.txt
+发生错误的文件内容： 空
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 输入的文件路径错误
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Actor_not_full_nature.txt
+发生错误的文件内容： Vertex = <"MorganFreeman", "Actor", <"81",>>
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Director_not_full_nature.txt
+发生错误的文件内容： Vertex = <"FrankDarabont", "Director", >
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_EdgeType_not_full.txt
+发生错误的文件内容： EdgeType = 
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_EdgeType_not_match.txt
+发生错误的文件内容： EdgeType = "MovieActorRelation", "Mion","SameMovieHyperEdge"
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Edge_not_full.txt
+发生错误的文件内容： Edge = < "MovieDirectorRelation", "-1","TheShawshankRedemption", "FrankDarabont", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Edge_weight_error.txt
+发生错误的文件内容： GraphType = "GraphPoet"
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_GraphName_not_full.txt
+发生错误的文件内容： GraphName = 
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的名字的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_GraphType_not_full.txt
+发生错误的文件内容： GraphType = 
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_GraphType_not_match.txt
+发生错误的文件内容： GraphType = "MovGraph"
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Movie_not_full_nature.txt
+发生错误的文件内容： Vertex = <"TheGreenMile", "Movie", >
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_VertexType_not_full.txt
+发生错误的文件内容： VertexType = 
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的类型的信息不完整！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_VertexType_not_match.txt
+发生错误的文件内容： VertexType = "Movr", "Director"
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 顶点的类型不匹配！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Vertex_in_Edge_not_have.txt
+发生错误的文件内容： Edge = <"SRMF", "MovieActorRelation", "1","TheShemption", "TimRobbins", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边中的顶点未定义！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Vertex_not_full_exnature.txt
+发生错误的文件内容： Vertex = < "Director", <"59", "M">>
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 点的信息不完整（非属性问题）！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/re_read/data_Movie_Vertex_in_H_not_have.txt
+发生错误的文件内容： Edge = <"SRMF", "MovieActorRelation", "1","TheShemption", "TimRobbins", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边中的顶点未定义！
+发生错误的处理结果： 重新读入新的文件！
+--------------------------------
+操作的时间： 2018-05-20 19:56:41
+操作的内容： 读取文件： test/graph/exception_Movies/data_Movie.txt！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_Label_repeat.txt
+发生错误的文件内容： Edge = <"SRFD", "MovieDirectorRelation", "-1","TheShawshankRedemption", "FrankDarabont", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中边的Label重复！
+发生错误的处理结果： 将边：SRFD变为边：SRFD1
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_Loop_error.txt
+发生错误的文件内容： Edge = <"SRFD", "MovieDirectorRelation", "-1","TheShawshankRedemption", "TheShawshankRedemption", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该图中不存在Loop！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_point_error.txt
+发生错误的文件内容： Edge = <"SRFD", "MovieDirectorRelation", "-1","TheShawshankRedemption", "FrankDarabont", "Yes">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 边的方向叙述错误！
+发生错误的处理结果： 将有向边直接改为无向边！
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Vertex_Label_repeat.txt
+发生错误的文件内容： Vertex = <"TheShawshankRedemption", "Movie", <"1994", "USA","9.3">>
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中顶点Label重复！
+发生错误的处理结果： 将顶点：TheShawshankRedemption变为顶点：TheShawshankRedemption1
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:41
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_H_Label_repeat.txt
+发生错误的文件内容： HyperEdge = <"ActorsInSR", "SameMovieHyperEdge", {"TimRobbins", "MorganFreeman", "FrankDarabont"}>
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中边的Label重复！
+发生错误的处理结果： 将边：H||ActorsInSR:<FrankDarabont,TimRobbins,MorganFreeman,>
+变为边：H||ActorsInSR1:<FrankDarabont,TimRobbins,MorganFreeman,>
+
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:42
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_have_mutiEdge.txt
+发生错误的文件内容： Edge = <"SFD", "MovieDirectorRelation", "-1","TheShawshankRedemption", "FrankDarabont", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 图中出现多重边！
+发生错误的处理结果： 去除边：SFD
+--------------------------------
+发生文件错误的时间： 2018-05-20 19:56:42
+发生错误的文件名： test/graph/exception_Movies/repair/data_Movie_Edge_begin_end_error.txt
+发生错误的文件内容： Edge = <"GMFD", "MovieDirectorRelation", "-1","MorganFreeman", "FrankDarabont", "No">
+发生错误的类名： factory.MovieGraphFactory
+发生错误的方法名： createGraph
+发生错误的类型： 文件错误！
+发生错误的具体信息： 该边的起点和终点类型有问题！
+发生错误的处理结果： 直接忽略这种非法边！
+--------------------------------

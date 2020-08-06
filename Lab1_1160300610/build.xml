@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<project name="Lab1-1160300607" default="test" basedir=".">
+	<!--source files-->
+	<property name="src.dir" value="src"/>
+	<property name="test.dir" value="test"/>
+	<!--.class files-->
+	<property name="bin.dir" value="bin"/>
+
+	<path id="classpath.base"/>
+
+	<path id="classpath.test">
+		<pathelement location="lib/hamcrest-core-1.3.jar"/>
+		<pathelement location="lib/javax.json-1.0.jar"/>
+		<pathelement location="lib/junit-4.11.jar"/>
+	</path>
+
+	<target name="test" depends="run"/>
+
+	<target name="complie">
+		<mkdir dir="${bin.dir}"/>
+		<javac srcdir="${src.dir}" destdir="${bin.dir}" includeantruntime="false">
+			<classpath refid="classpath.test"/>
+		</javac>
+	</target>
+
+	<target name="build" depends="complie">
+		<mkdir dir="${bin.dir}"/>
+		<javac srcdir="${test.dir}" destdir="${bin.dir}" includeantruntime="false">
+			<classpath refid="classpath.test"/>
+		</javac>
+		<echo message="Build done"/>
+	</target>
+
+	<target name="run" depends="build">
+		<junit printsummary="on" haltonfailure="yes" fork="yes">
+			<classpath>
+				<path refid="classpath.test"/>
+				<pathelement location="${bin.dir}"/>
+			</classpath>
+			<formatter type="brief" usefile="false"/>
+			<batchtest>
+				<fileset dir="${test.dir}" includes="**/*Test.java"/>
+            </batchtest>
+            <jvmarg line="-ea"/>
+		</junit>
+	</target>
+
+	<target name="clean">
+		<delete>
+			<fileset dir="${bin.dir}" includes="**/*.class"/>
+		</delete>
+		<echo message="clean done"/>
+	</target>
+</project>
